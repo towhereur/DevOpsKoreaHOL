@@ -1,6 +1,6 @@
 # Azure DevOps HOL
 
-[DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
+[DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다. 뿌잉뿌잉!! 2019-11-29
 
 ## 사전 준비 사항
 
